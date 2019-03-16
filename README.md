@@ -5,10 +5,7 @@
 The purpose of the project is to implement key sorting algorithms like Insertion sort, Merge Sort, In-place quick sort,modified quick sort to sort a list of elements and compare the performance of the algorithms for different input sizes
 
 2. Approach:
-Insertion sort, Merge sort, In-place Quick sort and modified Quick sort
-algorithms are implemented using object-oriented programming. The input
-array is generated with random elements according to the input size defined by
-the user.
+Insertion sort, Merge sort, In-place Quick sort and modified Quick sort algorithms are implemented using object-oriented programming. The input array is generated with random elements according to the input size defined by the user.
 
 3. Implementation
 
